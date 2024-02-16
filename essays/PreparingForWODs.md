@@ -11,4 +11,4 @@ labels:
   - WODs
 ---
 <h1>Preparing for WODs</h1>
-<p>Invoice1 is a WOD using JS expressions to generate a sales reciept. <li><a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html></a></li></p>
+<p>Invoice1 is a WOD using JS expressions to generate a sales reciept.</p> <li><a href="https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html"></a></li>
