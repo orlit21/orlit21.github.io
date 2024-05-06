@@ -46,18 +46,18 @@ labels:
 <p> I think the highlight of this course was the grade I got on assignment 1! Assignment 1 was the hardest thing I had encountered this semester! For a short period of time, I did not know if I was even gonna be able to complete it! I had a lot of help from Madden and Lui (shoutout to them!) I ended up recieving an A which was super exciting! It was funny because after my application was deployed, I was sending all my friends and family the link so they could try it out! I was so geeked about assignment 1 even though it gave me my toughest battles this semester! </p>
 <h2>4. Skill Development and Application</h2>
 <h4>4.1 Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels.</h4>
-<p></p>
+<p> In the syntactic level, we focused a lot on formatting code and creating HTML forms and styling them through CSS, and other basics to start us off with a basic foundation of programming. Looking back at it, the things we were learning here, seemed harder in the moment, but is almost second nature now becuase of how much we used it throughout this course. This was maybe the easiest level. Algorithmic was probably the most difficult for me. As I mentioned, I still have a bit of an issue understanding loops & I still get a bit tripped up on functions and when to use the different statements. Around this level was where I had a harder time with the WODs too. I would still consider this one of my weak points, but I am a bit more keen to it now compared to when we first touched on the subject. The application level allowed us to take what we had learned throughout the course and apply it to creating our stores! This was also a pretty difficult area, but I enjoyed being able to recall what we had learned earlier in the semester and apply it to something bigger. </p>
 <h4>4.2 Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.</h4>
-<p></p>
+<p> I feel that the hands-on experience developing our e-stores was like a simulation of applying our knowledege to real work problems that we may encounter throughout our MIS careers. Majority of the time we worked on these assignments alone, which was beneficial for our understanding of utilizing our resources becuase we won't always have a TA or a professor to rely on for help. This experience was a great way to create independency in your work and trusting your own thoughts and processes. </p>
 <h2>5. Use of AI</h2>
 <h4>5.1 Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.</h4>
-<p></p>
+<p> To start, I used ChatGPT quite a bit throughout this course. I thought it was pretty useful for doing things like telling me what a piece of codes function is, and pick out any errors in my code that I may have missed. I think It was also somewhat useful for completing smaller tasks on the labs or WODs. At first, I tried to solve things without the need for AI. However, I do feel that I may not have been able to fully comprehend the material from this course that well if it weren't for the use of it. </p>
 <h4>5.2 Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.</h4>
-<p></p>
+<p> Now we are not strangers of just how much ChatGPT...chats. I feel like it gives out a lot of information that you don't necessarily need. Or it would explain it in an even more complex manner and I would have to ask it to repeat that in laymans terms..HA! It also is not very helpful for giving you a code that will actually work. I would be lying if I said I didn't give it an entire problem to solve off one of the labs. I would also be lying if I said it would actually solve it! It's almost like it was forcing me to just RTFM. </p>
 <h2>6. Future Implications and Professional Growth</h2>
 <h4>6.1 Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.</h4>
-<p></p>
+<p> </p>
 <h4>6.2 Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.</h4>
-<p></p>
+<p> </p>
 <h4>6.3 Reflect on the overall value of the course in your educational journey and future career.</h4>
-<p></p>
+<p> </p>
